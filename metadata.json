@@ -1,0 +1,5 @@
+{
+  "name": "Nexus Integration Dashboard",
+  "description": "A production-grade, multi-tenant dashboard demonstrating secure integration of HubSpot, Freshdesk, Gemini, and more with observable audit trails and resilience patterns.",
+  "requestFramePermissions": []
+}
